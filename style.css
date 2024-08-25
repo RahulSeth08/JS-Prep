@@ -2,3 +2,16 @@ html {
   height: 100%;
   width: 100%;
 }
+
+.btn {
+  background-color: red;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+body {
+  background-color: blue;
+}
